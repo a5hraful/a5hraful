@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a5hraful
-- 👀 I’m interested in Python, Go, Javascript
-- 🌱 I’m currently learning Go, Async Python
+- 👀 I’m interested in Python, Rust, Go, Javascript
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Python, Javascript
 - 📫 How to reach me https://ashraful.dev
 
